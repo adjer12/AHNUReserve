@@ -15,7 +15,7 @@ INFO = {
     # 密码
     'password': 'nsk3030',
     # 座位编号
-    'sid': '',
+    'sid': '2024-09-11',
     # 预约日期
     'atDate': TOMORROW,
     # 开始时间
@@ -29,15 +29,15 @@ INFO = {
 
 EMAIL_INFO = {
     # 邮件接收者
-    'to_user': '',
+    'to_user': '2260325090@qq.com',
     # 邮件发送者
-    'my_sender': '',
+    'my_sender': '2260325090@qq.com',
     # 邮箱密码(这里是设置授权码，并不是真正的密码)
-    'my_pass': '',
+    'my_pass': 'cizywugtlmuvecfi',
     # 配置发件人昵称
-    'my_nick': '',
+    'my_nick': '图书',
     # 配置收件人昵称
-    'to_nick': '',
+    'to_nick': 'G',
     # 邮件内容
     'mail_msg': '''
                 <p>尊敬的{0}：<p>
