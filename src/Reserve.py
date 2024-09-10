@@ -11,15 +11,15 @@ TODAY = str(datetime.date.today())
 
 INFO = {
     # 账号
-    'account': '',
+    'account': '21111604029',
     # 密码
-    'password': '',
+    'password': 'nsk3030',
     # 座位编号
     'sid': '',
     # 预约日期
     'atDate': TOMORROW,
     # 开始时间
-    'st': TOMORROW + ' 08:00',
+    'st': TOMORROW + ' 16:00',
     # 结束时间
     'et': TOMORROW + ' 22:00',
     # 日志保存位置
